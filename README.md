@@ -12,14 +12,3 @@
 - 📫 How to reach me **sudharshank2003@gmail.com**
 
 <hr>
-
-<hr>
-
-<hr>
-<h3 align="left">Languages:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSudharshan-K&langs_count=8&theme=midnight-purple)
-
-<hr>
-
-<hr>
