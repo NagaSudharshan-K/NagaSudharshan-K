@@ -7,7 +7,7 @@
 
 - 🥽 I’m currently exploring **AR development and 3d Modelling**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Software Development**
 
 - 📫 How to reach me **sudharshank2003@gmail.com**
 
