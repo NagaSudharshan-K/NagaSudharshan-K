@@ -12,3 +12,8 @@
 - 📫 How to reach me **sudharshank2003@gmail.com**
 
 <hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NagaSudharshan-K&show_icons=true&locale=en&layout=compact" alt="NagaSudharshan-K" /></p>
+<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NagaSudharshan-K&show_icons=true&locale=en" alt="NagaSudharshan-K" /></p>
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NagaSudharshan-K&" alt="NagaSudharshan-K" /></p>
