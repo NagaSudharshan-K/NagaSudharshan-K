@@ -3,9 +3,9 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **AR and VR Development**
 
-- 🥽 I’m currently exploring **AR development and 3d Modelling**
+- 🥽 I’m currently exploring **Machine Learning**
 
 - 🌱 I’m currently learning **Software Development**
 
